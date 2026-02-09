@@ -68,6 +68,12 @@ pre{
 </div>
 {% endif %}
 
+{% if entry.artifacts %}
+<a href="{{ entry.artifacts }}" target="_blank" rel="noopener">
+  <button class="btn btn-info btm-sm">ARTIFACTS</button>
+</a>
+{% endif %}
+
 <div id="b{{entry.key}}" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
 <pre>{{entry.abstract}}</pre>
 </div>

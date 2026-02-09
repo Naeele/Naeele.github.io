@@ -11,19 +11,19 @@ permalink: /teaching/
 
 ---
 
-## Academic year 2025–2026
+## Academic year 2025–2026 (44h total)
 
 ### Internet of Things and Cybersecurity (IOT)  
 [Program overview](https://www.polytech-lille.fr/english/internet-of-things-and-cybersecurity/)
 
 **Third year**
-- **Structured Programming**  
+- **Structured Programming**
   *Practical sessions:* 16h · *Project:* 8h
-- **Data Structures**  
+- **Data Structures**
   *Practical sessions:* 8h
 
 **Fourth year**
-- **Security of Embedded Systems**  
+- **Security of Embedded Systems**
   *Practical sessions:* 4h
 
 ---
@@ -32,22 +32,22 @@ permalink: /teaching/
 [Program overview](https://www.polytech-lille.fr/english/data-statistics-and-software-engineering/)
 
 **Third year**
-- **Operating Systems**  
+- **Operating Systems**
   *Practical sessions:* 8h
 
 ---
 
-## Academic year 2024–2025
+## Academic year 2024–2025 (68h total)
 
 ### Internet of Things and Cybersecurity (IOT)  
 [Program overview](https://www.polytech-lille.fr/english/internet-of-things-and-cybersecurity/)
 
 **Third year**
-- **Structured Programming**  
+- **Structured Programming**
   *Practical sessions:* 16h · *Project:* 8h
-- **Database Systems**  
+- **Database Systems**
   *Practical sessions:* 6h · *Project:* 6h
-- **Data Structures**  
+- **Data Structures** 
   *Practical sessions:* 8h
 
 ---
@@ -56,7 +56,7 @@ permalink: /teaching/
 [Program overview](https://www.polytech-lille.fr/english/data-statistics-and-software-engineering/)
 
 **Third year**
-- **Numerical Programming**  
+- **Numerical Programming**
   *Practical sessions:* 16h
-- **Operating Systems**  
+- **Operating Systems**
   *Practical sessions:* 8h
