@@ -53,7 +53,7 @@ permalink: /talks/
 <h3>Science communication to non-specialist audiences</h3>
 
 <div class="talk-item">
-* 🧪 <strong>11 & 12 April 2024</strong> — <em>Girls Can Code</em> (French) · 18h
+* 🧪 <strong>11 & 12 April 2026</strong> — <em>Girls Can Code</em> (French) · 18h
   <div class="talk-meta">
   Organized by: Matéo Germe<br>
   Audience: Middle- and high-school girls<br>
