@@ -53,6 +53,17 @@ permalink: /talks/
 <h3>Science communication to non-specialist audiences</h3>
 
 <div class="talk-item">
+* 🧪 <strong>11 & 12 April 2024</strong> — <em>Girls Can Code</em> (French) · 18h
+  <div class="talk-meta">
+  Organized by: Matéo Germe<br>
+  Audience: Middle- and high-school girls<br>
+  <span class="talk-links">
+    <a href="https://girlscancode.fr/">Girls Can Code</a>
+  </span>
+  </div>
+</div>
+
+<div class="talk-item">
 * 💬 <strong>11 December 2025</strong> — <span class="talk-title"><em>Les Innovantes: Research Careers & Q&amp;A</em> (French)</span> · 1h
   <div class="talk-meta">
   Organized by: <a href="https://fr.linkedin.com/in/bruno-fruchard-3b60a51b5">Bruno Fruchard</a><br>
