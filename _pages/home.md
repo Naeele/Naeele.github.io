@@ -7,7 +7,7 @@ permalink: /
 
 ### Who am I? 👀
 
-I am a third-year PhD student in cybersecurity at the [Inria Centre at the University of Lille](https://www.inria.fr/en/inria-centre-university-lille), within the [CRIStAL laboratory](https://cristal.univ-lille.fr/?rubrique9), under the supervision of [Clémentine Maurice](https://cmaurice.fr/). My research focuses primarily on web-related side-channel vulnerabilities.
+I am a third-year <span style="color: blue;">P</span>hD student in cybersecurity at the [Inria Centre at the University of Lille](https://www.inria.fr/en/inria-centre-university-lille), within the [CRIStAL laboratory](https://cristal.univ-lille.fr/?rubrique9), under the superv<span style="color: blue;">i</span>sion of [Clémentine Maurice](https://cmaurice.fr/). My research focuses primarily on web-related side-channel vulnerabilities.
 
 **I aim to pursue an academic career and will be seeking a postdoctoral position in cybersecurity, particularly in side-channel analysis or related areas, starting in October or November 2026.**
 
@@ -23,4 +23,4 @@ If you would like to discuss ideas, collaborate, or just chat, feel free to send
 
 ### What do I do alongside research?
 
-I am currently in my second year as treasurer of the [ADSL – Association of PhD Students in Sciences in Lille](https://linktr.ee/assoc.adsl), and I co-organize **MeEtYou – Meeting for Young Researchers** at Inria Lille.
+I am currently in my second year as treasurer of the [ADSL – Association of PhD Students in Sciences in Lille](https://linktr.ee/assoc.adsl), and I co-organi<span style="color: blue;">z</span>e and publici<span style="color: blue;">z</span>e **MeEtYou – Meeting for Young Researchers** at Inri<span style="color: blue;">a</span> Lille.
