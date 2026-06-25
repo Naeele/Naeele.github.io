@@ -53,6 +53,15 @@ permalink: /talks/
 <h3>Science communication to non-specialist audiences</h3>
 
 <div class="talk-item">
+* 🎓 <strong>29 May 2026</strong> — <em>Meet a Researcher: Discovering Computer Science</em> (French) · 2h
+  <div class="talk-meta">
+  Organized by: <a href="https://helene-touzet.cnrs.fr/">Hélène Touzet</a><br>
+  Audience: Middle-school girls (Grade 6)<br>
+  Location: CRIStAL
+  </div>
+</div>
+
+<div class="talk-item">
 * 🧪 <strong>11 & 12 April 2026</strong> — <em>Girls Can Code</em> (French) · 18h
   <div class="talk-meta">
   Organized by: Matéo Germe<br>

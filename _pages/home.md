@@ -9,8 +9,6 @@ permalink: /
 
 I am a third-year <font color="green">P</font>hD student in cybersecurity at the [Inria Centre at the University of Lille](https://www.inria.fr/en/inria-centre-university-lille), within the [CRIStAL laboratory](https://cristal.univ-lille.fr/?rubrique9), under the superv<font color="green">i</font>sion of [Clémentine Maurice](https://cmaurice.fr/). My research focuses primarily on web-related side-channel vulnerabilities.
 
-**I aim to pursue an academic career and will be seeking a postdoctoral position in cybersecurity, particularly in side-channel analysis or related areas, starting in October or November 2026.**
-
 If you would like to discuss ideas, collaborate, or just chat, feel free to send me an email 😉
 
 ### What am I interested in?
