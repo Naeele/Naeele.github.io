@@ -9,9 +9,9 @@
   # Change the items in "education" you have (up to 6)
   education:
     [
-      "(2026) Ph.D. in Computer Science, University of Lille, France",
       "(2023) Master's Degree in Cryptography, University of Rennes, France",
+      "(2026) Ph.D. in Computer Science, University of Lille, France",
     ]
 
   educationshort:
-    ["(2023) Master's Degree in Cryptography, University of Rennes", "(2026) Ph.D. in Computer Science, University of Lille"]
+    ["(2026) Ph.D. in Computer Science, University of Lille", "(2023) Master's Degree in Cryptography, University of Rennes"]

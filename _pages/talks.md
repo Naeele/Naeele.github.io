@@ -41,24 +41,36 @@ permalink: /talks/
 </style>
 
 <div class="jumbotron">
-### Selected talks
+  <h3 id="selected-talks">Selected talks</h3>
 
-* **16 November 2026** — *Practice Makes (Im)Perfect: A Look Back at Benchmarking Practices for Microarchitectural Side-Channel Attacks*
-  Iliana Fayolle
-  [CCS ’26](https://www.sigsac.org/ccs/CCS2026/index.html), The Hague, The Netherlands
-  [slides](https://slides.com/ilianafayolle/ccs26/fullscreen)
-</div>
+  <ul>
+    <li>
+      <strong>16 November 2026</strong> —
+      <em>Practice Makes (Im)Perfect: A Look Back at Benchmarking Practices for Microarchitectural Side-Channel Attacks</em>
+      — Iliana Fayolle,
+      <a href="https://www.sigsac.org/ccs/CCS2026/index.html">CCS '26</a>,
+      The Hague, The Netherlands
+      <a href="https://slides.com/ilianafayolle/ccs26/fullscreen">Slides</a>
+    </li>
 
-* **01 October 2026** — *Side Channels in Web Environments: From Microarchitectural Attacks to Developer-Centric Countermeasures*
-  Iliana Fayolle
-  [PhD Thesis Defense](https://www.cristal.univ-lille.fr/en/theses/fayolle-iliana-931/?force_lang=true), Inria Center from the University of Lille, France
-  [slides](https://slides.com/ilianafayolle/phd-thesis-defense/fullscreen)
-</div>
+    <li>
+      <strong>01 October 2026</strong> —
+      <em>Side Channels in Web Environments: From Microarchitectural Attacks to Developer-Centric Countermeasures</em>
+      — Iliana Fayolle,
+      <a href="https://www.cristal.univ-lille.fr/en/theses/fayolle-iliana-931/?force_lang=true">PhD Thesis Defense</a>,
+      Inria Center, University of Lille, France
+      <a href="https://slides.com/ilianafayolle/phd-thesis-defense/fullscreen">Slides</a>
+    </li>
 
-* **24 September 2024** — *Semi-automated and Easily Interpretable Side-Channel Analysis for Modern JavaScript*
-  Iliana Fayolle
-  [CANS ’24](https://2024.cansconference.org/), Cambridge, UK
-  [slides](https://slides.com/ilianafayolle/cans24-678e00/fullscreen)
+    <li>
+      <strong>24 September 2024</strong> —
+      <em>Semi-automated and Easily Interpretable Side-Channel Analysis for Modern JavaScript</em>
+      — Iliana Fayolle,
+      <a href="https://2024.cansconference.org/">CANS '24</a>,
+      Cambridge, UK
+      <a href="https://slides.com/ilianafayolle/cans24-678e00/fullscreen">Slides</a>
+    </li>
+  </ul>
 </div>
 
 <div class="jumbotron">

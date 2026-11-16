@@ -1,7 +1,7 @@
 # Site settings
 title: Iliana Fayolle
-email: iliana.fayolle@inria.fr
-description: Academic webpage of PhD student Iliana Fayolle
+email: iliana.fayolle@uni-luebeck.de
+description: Academic webpage of Postdoc Iliana Fayolle
 baseurl: ""
 url: "https://ifayolle.fr"
 
@@ -13,16 +13,17 @@ url: "https://ifayolle.fr"
 # Footer info
 affiliation: >
   Iliana Fayolle<br/>
-  PhD student in Cybersecurity<br/>
-  Inria - University of Lille - CRIStAL
+  Postdoc Researcher (Wissenschaftliche Mitarbeiterin) in AI and Cybersecurity<br/>
+  University of Luebeck - Institut für IT-Sicherheit PhD student in Cybersecurity<br/>
 
 location: >
-  University of Lille<br/>
-  59650, Villeneuve d'Ascq<br/>
-  France
+  University of Luebeck<br/>
+  Ratzeburger Allee 160,<br/>
+  Lübeck 23562,<br/>
+  Germany
 
 contact: >
-  <a href="mailto:iliana.fayolle@inria.fr" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Iliana via email</a> <br/>
+  <a href="mailto:iliana.fayolle@uni-luebeck.de" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Iliana via email</a> <br/>
   <a href="https://github.com/sbryngelson/academic-website-template"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
 
 # Pages shown in navbar
