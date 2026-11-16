@@ -1,7 +1,7 @@
 - name: Iliana Fayolle
   photo: headshot.jpg
-  info: Iliana Fayolle, Inria - University of Lille - CRIStAL
-  email: iliana.fayolle@inria.fr
+  info: Iliana Fayolle, University of Luebeck - Institut für IT-Sicherheit
+  email: iliana.fayolle@uni-luebeck.de
   #github: https://github.com/
   researchgate: https://www.researchgate.net/profile/Iliana-Fayolle
   scholar: https://scholar.google.com/citations?user=zU3eEZIAAAAJ
@@ -9,10 +9,9 @@
   # Change the items in "education" you have (up to 6)
   education:
     [
-      #"(1942) Ph.D. Physics, Princeton University",
-      #"(2023) Master's Degree in Cryptography, University of Rennes",
+      "(2026) Ph.D. in Computer Science, University of Lille, France",
+      "(2023) Master's Degree in Cryptography, University of Rennes, France",
     ]
 
   educationshort:
-    #["(2023) Master's Degree in Cryptography, University of Rennes"]
-    #, "(1939) B.S. Physics, MIT"]
+    ["(2023) Master's Degree in Cryptography, University of Rennes", "(2026) Ph.D. in Computer Science, University of Lille"]

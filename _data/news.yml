@@ -1,56 +1,101 @@
+- date: 15–19 November 2026
+  headline: >
+    🇳🇱 I Presented our paper
+    <a href="https://arxiv.org/abs/2609.03893" target="_blank">
+      Practice Makes (Im)Perfect: A Look Back at Benchmarking Practices for Microarchitectural Side-Channel Attacks
+    </a>
+    at the
+    <a href="https://www.sigsac.org/ccs/CCS2026/index.html" target="_blank">
+      CCS 2026 Conference
+    </a>
+    in The Hague, the Netherlands
+
+- date: 01 November 2026
+  headline: >
+    ✌ I started my postdoc at the University of Luebeck (Germany) under the supervision of
+    <a href="https://www.its.uni-luebeck.de/en/staff/thomas-eisenbarth" target="_blank">
+      Thomas Eisenbarth
+    </a>!
+
+- date: 5–6 October 2026
+  headline: >
+    🧑‍💻 I presented our paper
+    <a href="https://arxiv.org/abs/2609.03893" target="_blank">
+      Practice Makes (Im)Perfect: A Look Back at Benchmarking Practices for Microarchitectural Side-Channel Attacks
+    </a> at the
+    <a href="https://gtsslr2026.sciencesconf.org/" target="_blank">
+      SSLR Days
+    </a>
+    in Toulouse, France
+
+- date: 01 October 2026
+  headline: >
+    🎉 I defended my PhD thesis and earned my doctorate!
+
+- date: 18 July 2026
+  headline: >
+    📝 Our paper
+    <a href="https://arxiv.org/abs/2609.03893" target="_blank">
+      Practice Makes (Im)Perfect: A Look Back at Benchmarking Practices for Microarchitectural Side-Channel Attacks
+    </a>
+    was accepted at
+    <a href="https://www.sigsac.org/ccs/CCS2026/index.html" target="_blank">
+      CCS 2026
+    </a>
+
 - date: 23 June - 03 July 2026
   headline: >
-    🧑‍💻 Currently visiting colleagues from the University of Lübeck
-    in Lübeck, Germany
+    🧑‍💻 I visited colleagues from the University of Luebeck
+    in Luebeck, Germany
 
 - date: 09-11 June 2026
   headline: >
-    🧑‍💻 Co-organized (helped in the social event organization) and attended the
+    🧑‍💻 I co-organized (helped in the social event organization) and attended the
     <a href="https://gdr-secu-jn2026.sciencesconf.org/?forward-action=index&forward-controller=index&lang=en" target="_blank">
       2026 National Days of the GDR Sécurité Informatique
     </a>
-    in Lille
+    in Lille, France
 
 - date: 02 February 2026
   headline: >
-    💬 Co-organized (ordered snacks and coffee) and attended the Fantastic Seminar from Clémentine Maurice
-    in Lille
+    💬 I co-organized (ordered snacks and coffee) and attended the Fantastic Seminar from Clémentine Maurice
+    in Lille, France
 
 - date: 26–30 January 2026
   headline: >
-    🏔️ Attended the 3rd edition of the
+    🏔️ I attended the 3rd edition of the
     <a href="https://www.pepr-cybersecurite.fr/2025/09/15/ecole-dhiver-2026/" target="_blank">
       PEPR Cybersecurity Winter School
     </a>
-    in Aussois
+    in Aussois, France
 
 - date: 8–9 October 2025
   headline: >
-    🧑‍💻 Presented work in progress at the
+    🧑‍💻 I presented work in progress at the
     <a href="https://gtsslr2025.sciencesconf.org/" target="_blank">
       SSLR Days
     </a>
-    in Paris
+    in Paris, France
 
 - date: 1–3 July 2025
   headline: >
-    🧂 Attended the
+    🧂 I attended the
     <a href="https://2025.pass-the-salt.org/" target="_blank">
       Pass the Salt Conference
     </a>
-    in Lille
+    in Lille, France
 
 - date: 3–7 February 2025
   headline: >
-    🏔️ Attended the 9th edition of the
+    🏔️ I attended the 9th edition of the
     <a href="https://sites.google.com/site/rsdwinterschool/last-editions/asf-winter-school-2025" target="_blank">
       GDR RSD/ASF Winter School
     </a>
-    in Le Pleynet
+    in Le Pleynet, France
 
 - date: 24–27 September 2024
   headline: >
-    🇬🇧 Presented our paper
+    🇬🇧 I presented our paper
     <a href="https://hal.science/hal-04652991/document" target="_blank">
       Semi-Automated and Easily Interpretable Side-Channel Analysis for Modern JavaScript
     </a>
@@ -73,23 +118,23 @@
 
 - date: 3–5 July 2024
   headline: >
-    🧂 Attended the
+    🧂 I attended the
     <a href="https://2024.pass-the-salt.org/" target="_blank">
       Pass the Salt Conference
     </a>
-    in Lille
+    in Lille, France
 
 - date: 29 January – 2 February 2024
   headline: >
-    🏔️ Attended the 1st edition of the
+    🏔️ I attended the 1st edition of the
     <a href="https://www.pepr-cybersecurite.fr/2023/11/10/ecole-d-hiver-2024/" target="_blank">
       PEPR Cybersecurity Winter School
     </a>
-    in Autrans
+    in Autrans, France
 
 - date: 1 October 2023
   headline: >
-    ✌ Started a PhD at Inria Lille
+    ✌ I started a PhD at Inria Lille (France)
     under the supervision of
     <a href="https://cmaurice.fr/" target="_blank">
       Clémentine Maurice
@@ -100,15 +145,15 @@
 
 - date: 6 September 2023
   headline: >
-    🎉 Received a Master’s degree in Cryptography
+    🎉 I received a Master’s degree in Cryptography
     from the
     <a href="https://cyberschool.univ-rennes.fr/en/education/masters-and-postgraduate-programmes/masters-in-mathematics-and-applications-it-mathematics-and-cryptography/" target="_blank">
-      University of Rennes
+      University of Rennes, France
     </a>
 
 - date: 1 March 2023
   headline: >
-    ✌ Started an internship at Inria Lille
+    ✌ I started an internship at Inria Lille
     under the supervision of
     <a href="https://cmaurice.fr/" target="_blank">
       Clémentine Maurice

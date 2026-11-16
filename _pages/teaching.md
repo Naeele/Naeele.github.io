@@ -5,58 +5,68 @@ sitemap: false
 permalink: /teaching/
 ---
 
+## Teaching at the University of Luebeck
 
-## Teaching at Polytech Lille  
-[Polytech Lille – official website](https://www.polytech-lille.fr/english/)
+[University of Luebeck – official website](https://research.uni-luebeck.de/en/)
 
 ---
 
-## Academic year 2025–2026 (44h total)
+### Academic year 2025–2026 (1.5h EQTD)
 
-### Internet of Things and Cybersecurity (IOT)  
-[Program overview](https://www.polytech-lille.fr/english/internet-of-things-and-cybersecurity/)
+**Bachelor in IT Security and Bachelor in Computer Science**
+
+- **Secure Networks and Computer Forensics (SafeNCF)**  
+  *Guest lecture: 1.5h*
+
+---
+
+## Teaching at Polytech Lille
+
+[Polytech Lille – official website](https://www.polytech-lille.fr/english/)  
+*Engineering School, University of Lille*
+
+---
+
+### Academic year 2025–2026 (47.5h EQTD)
+
+**Electrical Engineering and Mechatronics**
 
 **Third year**
-- **Structured Programming**
-  *Practical sessions:* 16h · *Project:* 8h
-- **Data Structures**
-  *Practical sessions:* 8h
+- **Structured Programming**  
+  *Practical sessions: 16h · Project: 9.5h (25.5h total)*
+- **Data Structures**  
+  *Practical sessions: 8h*
+
+**Computer Science and Applied Mathematics**
+
+**Third year**
+- **Operating Systems**  
+  *Practical sessions: 8h*
+
+**Embedded Systems and Electrical Engineering**
 
 **Fourth year**
-- **Security of Embedded Systems**
-  *Practical sessions:* 4h
+- **Programmable Digital Circuits**  
+  *Practical sessions: 6h*
 
 ---
 
-### Data Engineering and Artificial Intelligence (DE&AI)  
-[Program overview](https://www.polytech-lille.fr/english/data-statistics-and-software-engineering/)
+### Academic year 2024–2025 (68.5h EQTD)
+
+**Electrical Engineering and Mechatronics**
 
 **Third year**
-- **Operating Systems**
-  *Practical sessions:* 8h
+- **Structured Programming**  
+  *Practical sessions: 16h · Project: 6h (22h total)*
+- **Database Systems**  
+  *Practical sessions: 6h · Project: 4.5h (10.5h total)*
+- **Data Structures**  
+  *Practical sessions: 12h*
 
----
-
-## Academic year 2024–2025 (68h total)
-
-### Internet of Things and Cybersecurity (IOT)  
-[Program overview](https://www.polytech-lille.fr/english/internet-of-things-and-cybersecurity/)
-
-**Third year**
-- **Structured Programming**
-  *Practical sessions:* 16h · *Project:* 8h
-- **Database Systems**
-  *Practical sessions:* 6h · *Project:* 6h
-- **Data Structures** 
-  *Practical sessions:* 8h
-
----
-
-### Data Engineering and Artificial Intelligence (DE&AI)  
-[Program overview](https://www.polytech-lille.fr/english/data-statistics-and-software-engineering/)
+**Computer Science and Applied Mathematics**
 
 **Third year**
-- **Numerical Programming**
-  *Practical sessions:* 16h
-- **Operating Systems**
-  *Practical sessions:* 8h
+- **Numerical Programming**  
+  *Practical sessions: 16h*
+- **Operating Systems**  
+  *Practical sessions: 8h*

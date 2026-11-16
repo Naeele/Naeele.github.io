@@ -43,14 +43,38 @@ permalink: /talks/
 <div class="jumbotron">
 ### Selected talks
 
+* **16 November 2026** — *Practice Makes (Im)Perfect: A Look Back at Benchmarking Practices for Microarchitectural Side-Channel Attacks*
+  Iliana Fayolle
+  [CCS ’26](https://www.sigsac.org/ccs/CCS2026/index.html), The Hague, The Netherlands
+  [slides](https://slides.com/ilianafayolle/ccs26/fullscreen)
+</div>
+
+* **01 October 2026** — *Side Channels in Web Environments: From Microarchitectural Attacks to Developer-Centric Countermeasures*
+  Iliana Fayolle
+  [PhD Thesis Defense](https://www.cristal.univ-lille.fr/en/theses/fayolle-iliana-931/?force_lang=true), Inria Center from the University of Lille, France
+  [slides](https://slides.com/ilianafayolle/phd-thesis-defense/fullscreen)
+</div>
+
 * **24 September 2024** — *Semi-automated and Easily Interpretable Side-Channel Analysis for Modern JavaScript*
   Iliana Fayolle
-  [CANS’24](https://2024.cansconference.org/), Cambridge, UK
+  [CANS ’24](https://2024.cansconference.org/), Cambridge, UK
   [slides](https://slides.com/ilianafayolle/cans24-678e00/fullscreen)
 </div>
 
 <div class="jumbotron">
 <h3>Science communication to non-specialist audiences</h3>
+
+<div class="talk-item">
+* 🧪 <strong>22 October 2026</strong> — <em>RJMI – Speed Meetings</em> (French) · 2h
+  <div class="talk-meta">
+  Organized by: <a href="https://fr.linkedin.com/in/simle">Simon Lemaire</a> &amp;
+  <a href="https://fr.linkedin.com/in/bruno-fruchard-3b60a51b5">Bruno Fruchard</a><br>
+  Audience: High-school girls (Grades 11–12)<br>
+  <span class="talk-links">
+    <a href="https://filles-et-maths.fr/evenements/rjmi-lille/">RJMI</a>
+  </span>
+  </div>
+</div>
 
 <div class="talk-item">
 * 🎓 <strong>29 May 2026</strong> — <em>Meet a Researcher: Discovering Computer Science</em> (French) · 2h
