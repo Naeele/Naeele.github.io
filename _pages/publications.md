@@ -7,12 +7,12 @@ years: [2024, 2025, 2026]
 ---
 
 <style>
-.jumbotron{
-    padding:3%;
-    padding-bottom:10px;
-    padding-top:10px;
-    margin-top:10px;
-    margin-bottom:30px;
+.jumbotron {
+    padding: 3%;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-top: 10px;
+    margin-bottom: 30px;
 }
 </style>
 
@@ -20,35 +20,92 @@ years: [2024, 2025, 2026]
 
 <h3>Refereed conference proceedings</h3>
 
-<ol reversed>
+<!-- CCS 2026: manually added -->
+<ol class="bibliography" reversed start="2">
+<li>
 
-  <!-- CCS 2026 -->
-  <li>
-    <div class="text-justify">
-      <strong>Fayolle, I.</strong>, Geimer, A., De Almeida Braga, D., &amp; Maurice, C. (2026).
-      Practice Makes (Im)Perfect: A Look Back at Benchmarking Practices for Microarchitectural Side-Channel Attacks.
-      <i>Proceedings of the 2026 ACM SIGSAC Conference on Computer and Communications Security</i>,
-      1655–1669.
-      <a href="https://doi.org/10.1145/3830454.3846555">https://doi.org/10.1145/3830454.3846555</a>
-    </div>
+<style>
+.btn {
+    margin-bottom: 5px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 15px;
+    padding-right: 15px;
+    height: 20px;
+}
+</style>
 
-    <a href="{{ '/papers/ccs26_fayolle.pdf' | relative_url }}" target="_blank">
-      <button class="btn btn-success btn-sm">PDF</button>
-    </a>
+<div class="text-justify">
+<strong>Fayolle, I.</strong>, Geimer, A., De Almeida Braga, D., &amp; Maurice, C. (2026).
+Practice Makes (Im)Perfect: A Look Back at Benchmarking Practices for Microarchitectural Side-Channel Attacks.
+<i>Proceedings of the 2026 ACM SIGSAC Conference on Computer and Communications Security</i>,
+<i>1655–1669.</i>
+<a href="https://doi.org/10.1145/3830454.3846555">
+https://doi.org/10.1145/3830454.3846555
+</a>
+</div>
 
-    <a href="https://doi.org/10.1145/3830454.3846555" target="_blank">
-      <button class="btn btn-primary btn-sm">DOI</button>
-    </a>
+<a href="{{ '/papers/ccs26fayolle.pdf' | relative_url }}" target="_blank">
+<button class="btn btn-success btn-sm">PDF</button>
+</a>
 
-    <a href="https://github.com/Naeele/Practice_Makes_-Im-Perfect---Artifacts"
-       target="_blank" rel="noopener">
-      <button class="btn btn-info btn-sm">ARTIFACTS</button>
-    </a>
-  </li>
+<a href="https://doi.org/10.1145/3830454.3846555" target="_blank">
+<button class="btn btn-primary btn-sm">DOI</button>
+</a>
 
-  <!-- CANS 2024 -->
-  {% bibliography --query @*[key = "FayolleWKREM24"] %}
+<button class="btn btn-danger btn-sm" onclick="toggleBibtexCCS26()">BIB</button>
 
+<button class="btn btn-warning btn-sm" onclick="toggleAbstractCCS26()">ABSTRACT</button>
+
+<a href="https://github.com/Naeele/Practice_Makes_-Im-Perfect---Artifacts"
+   target="_blank" rel="noopener">
+<button class="btn btn-info btn-sm">ARTIFACTS</button>
+</a>
+
+<div id="aCCS26" style="display:none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
+<pre>
+@inproceedings{FayolleCCS26,
+  author = {Fayolle, Iliana and Geimer, Antoine and De Almeida Braga, Daniel and Maurice, Cl{\'e}mentine},
+  title = {Practice Makes (Im)Perfect: A Look Back at Benchmarking Practices for Microarchitectural Side-Channel Attacks},
+  year = {2026},
+  isbn = {9798400728716},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3830454.3846555},
+  doi = {10.1145/3830454.3846555},
+  booktitle = {Proceedings of the 2026 ACM SIGSAC Conference on Computer and Communications Security},
+  pages = {1655--1669},
+  numpages = {15},
+  keywords = {microarchitectural, side-channel attacks, benchmarking},
+  location = {The Hague, Netherlands},
+  series = {CCS '26}
+}
+</pre>
+</div>
+
+<div id="bCCS26" style="display:none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
+<pre>
+Microarchitectural side-channel research has grown at an exceptional pace in recent years, increasing the need for rigorous and meaningful benchmarking. Early attack papers typically relied on indirect proxies, such as covert-channel bandwidth or key-recovery on naive AES and RSA implementations, setting de facto standards that many subsequent works continued to replicate, sometimes by directly comparing against raw numbers from prior work. While these practices offer convenient points of comparison, current benchmarks may not be the most relevant to assess specific properties of new primitives. Even more problematic, microarchitectural attacks are notoriously sensitive to experimental conditions: minimal changes in the target system can significantly alter outcomes and performance. As a result, inadequate evaluation practices undermine reproducibility and cast doubt on the relevance of comparisons, even in top-tier venues where such issues should be identified.
+This paper tackles the core problem of proper benchmarking for microarchitectural side-channel attacks and examines its broader impact on research quality in the field. We survey 83 attack papers published in top-ranked security and architecture conferences from 2014 to 2024. From this corpus, we identify and define 19 recurrent benchmarking flaws that affect evaluation completeness, relevance, soundness, and reproducibility. These flaws include unfair or absent comparisons, missing code or materials, and the failure to evaluate the key attack properties. On average, each paper exhibits 5.5 such flaws, highlighting how widespread the issue is, even in highly selective venues. Based on our findings, we identify and suggest key properties that are relevant to properly evaluate new attacks. We also highlight trends over time and different practices between security and architecture conferences.
+</pre>
+</div>
+
+<script>
+function toggleBibtexCCS26() {
+    var x = document.getElementById('aCCS26');
+    x.style.display = x.style.display === 'none' ? 'block' : 'none';
+}
+
+function toggleAbstractCCS26() {
+    var x = document.getElementById('bCCS26');
+    x.style.display = x.style.display === 'none' ? 'block' : 'none';
+}
+</script>
+
+</li>
 </ol>
+
+<!-- CANS 2024: generated by Jekyll-Scholar -->
+{% bibliography --query @inproceedings %}
 
 </div>
